@@ -1,2 +1,1 @@
-ONO-TEBE-NADO 
-Vlad Kozyra
+https://github.com/vlad-kozyra/ono-tebe-nado
