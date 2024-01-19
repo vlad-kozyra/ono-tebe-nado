@@ -169,10 +169,10 @@
 .bet-button {
   color: inherit;
   background-color: transparent;
-  float: inline-end;
-  border-color: white;
+  border: 1px solid #ffffff;
   font-size: 22px;
   font-weight: 500;
+  text-align: center;
   color: white;
   width: 256px;
   height: 51px;
@@ -351,7 +351,6 @@
 .about__title {
   color: #000;
   text-transform: uppercase;
-  font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 46px;
@@ -395,7 +394,6 @@
   flex-direction: column;
   align-items: center;
   width: 149px;
-  margin-left: 148.62px;
 }
 
 /* Меню обнуление типа*/
